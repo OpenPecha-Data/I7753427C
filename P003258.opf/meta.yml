@@ -4,4 +4,49 @@ source_metadata:
   id: bdr:W1KG10193
   title: གསུང་འབུམ། འཇིགས་མེད་གླིང་པ།
   author: ''
-  volumes: {}
+  volumes:
+    ec1a1fefad4f46a5913b954ca53f5863:
+      image_group_id: I1KG10195
+      title: ''
+      volume_number: 1
+      total_pages: 935
+    dadfa15ca58c45ddb31c587ff2ea58ae:
+      image_group_id: I1KG10196
+      title: ''
+      volume_number: 2
+      total_pages: 1007
+    422eed15e3bb437fa7142df90fa53f00:
+      image_group_id: I1KG10197
+      title: ''
+      volume_number: 3
+      total_pages: 883
+    d5a38df1585f4bb3b4792eba8baa93eb:
+      image_group_id: I1KG10198
+      title: ''
+      volume_number: 4
+      total_pages: 923
+    9b0c5319db52424fb8041c3f90a77268:
+      image_group_id: I1KG10199
+      title: ''
+      volume_number: 5
+      total_pages: 898
+    d1c2b2738e9142ffbf5d0d20f3a2d028:
+      image_group_id: I1KG10200
+      title: ''
+      volume_number: 6
+      total_pages: 521
+    6c2fabee37564743a406d16c9157d02e:
+      image_group_id: I1KG10201
+      title: ''
+      volume_number: 7
+      total_pages: 1296
+    4024a349b26648739d1dcf0c14e712be:
+      image_group_id: I1KG10202
+      title: ''
+      volume_number: 8
+      total_pages: 1424
+    8fd1ed724a9e4422b3c6db89c92c2897:
+      image_group_id: I1KG10203
+      title: ''
+      volume_number: 9
+      total_pages: 867
